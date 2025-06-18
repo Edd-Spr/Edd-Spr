@@ -1,11 +1,27 @@
 <h1 align="center">Hi , I'm Eddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://github.com/Edd-Spr">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23C8BE25&size=24&center=true&vCenter=true&width=750&height=100&lines=Front-End+Developer;UX%2FUI+Designer;Computer+Engineering+Student;Passionate+about+Web+Design;Learning+JavaScript+and+React;Always+learning+new+things">
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7C62B&center=true&vCenter=true&width=550&lines=Front-end+Developer+%7C+UX%2FUI+Designer;Computer+Engineering+Student;Design-driven+and+detail-oriented;Always+learning+and+iterating" alt="Typing animation" />
 </p>
 
-<br>
+
+<!-- ABOUT ME -->
+
+<h2 align="center">✨ About Me</h2>
+
+
+<div align="center">
+
+💻 **Front-end Developer** focused on creating beautiful, accessible, and performant web interfaces.  
+🎨 **UX/UI Designer** passionate about intuitive user experiences and clean design systems.  
+🎓 Currently pursuing a degree in **Computer Engineering**, with strong interests in design and technology.  
+🌱 Lifelong learner — always exploring new tools, frameworks, and creative techniques.  
+
+</div>
+
+---
+
+
 <div align ="center"> 
   <a href="https://www.instagram.com/isra_legend" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.facebook.com/israel.pinto.505/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
@@ -14,6 +30,9 @@
 </div>
 
 <br>
+
+
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
